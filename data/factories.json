@@ -4,7 +4,7 @@
     "name": "Porsche AG Stuttgart",
     "location": "Stuttgart, Duitsland",
     "founded": 1931,
-    "logoUrl": "https://raw.githubusercontent.com/phebe02/porsche-json-project/main/images/stuttgart-factory-logo.jpg",
+    "logoUrl": "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/stuttgart_logo.png",
     "isElectricCertified": false
   },
   {
@@ -12,7 +12,7 @@
     "name": "Porsche Zuffenhausen EV Plant",
     "location": "Zuffenhausen, Duitsland",
     "founded": 2019,
-    "logoUrl": "https://raw.githubusercontent.com/phebe02/porsche-json-project/main/images/zuffenhausen-logo.jpg",
+    "logoUrl": ""logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/zuffenhausen_logo.png",
     "isElectricCertified": true
   }
 ]
