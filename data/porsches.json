@@ -1,0 +1,232 @@
+[
+  {
+    "id": "POR-000",
+    "name": "911 Carrera",
+    "description": "Beschrijving van 911 Carrera, een Porsche-model dat bekend staat om tijdloze elegantie en prestaties.",
+    "price": 90000,
+    "isAvailable": true,
+    "releaseDate": "2021-01-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/911-carrera.jpg",
+    "category": "Coup\u00e9",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-001",
+      "name": "Porsche AG Stuttgart",
+      "location": "Stuttgart, Duitsland",
+      "founded": 1931,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/stuttgart-factory-logo.jpg",
+      "isElectricCertified": false
+    }
+  },
+  {
+    "id": "POR-001",
+    "name": "Taycan Turbo S",
+    "description": "Beschrijving van Taycan Turbo S, een Porsche-model dat bekend staat om elektrische kracht en luxe.",
+    "price": 93000,
+    "isAvailable": false,
+    "releaseDate": "2022-02-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/taycan-turbo-s.jpg",
+    "category": "Elektrisch",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-002",
+      "name": "Porsche Zuffenhausen EV Plant",
+      "location": "Zuffenhausen, Duitsland",
+      "founded": 2019,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/zuffenhausen-logo.jpg",
+      "isElectricCertified": true
+    }
+  },
+  {
+    "id": "POR-002",
+    "name": "Cayenne",
+    "description": "Beschrijving van Cayenne, een Porsche-model dat bekend staat om veelzijdigheid en comfort.",
+    "price": 96000,
+    "isAvailable": true,
+    "releaseDate": "2023-03-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/cayenne.jpg",
+    "category": "SUV",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-001",
+      "name": "Porsche AG Stuttgart",
+      "location": "Stuttgart, Duitsland",
+      "founded": 1931,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/stuttgart-factory-logo.jpg",
+      "isElectricCertified": false
+    }
+  },
+  {
+    "id": "POR-003",
+    "name": "Panamera",
+    "description": "Beschrijving van Panamera, een Porsche-model dat bekend staat om luxueuze sportiviteit.",
+    "price": 99000,
+    "isAvailable": false,
+    "releaseDate": "2021-04-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/panamera.jpg",
+    "category": "Coup\u00e9",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-002",
+      "name": "Porsche Zuffenhausen EV Plant",
+      "location": "Zuffenhausen, Duitsland",
+      "founded": 2019,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/zuffenhausen-logo.jpg",
+      "isElectricCertified": true
+    }
+  },
+  {
+    "id": "POR-004",
+    "name": "Macan",
+    "description": "Beschrijving van Macan, een Porsche-model dat bekend staat om compacte kracht.",
+    "price": 102000,
+    "isAvailable": true,
+    "releaseDate": "2022-05-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/macan.jpg",
+    "category": "SUV",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-001",
+      "name": "Porsche AG Stuttgart",
+      "location": "Stuttgart, Duitsland",
+      "founded": 1931,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/stuttgart-factory-logo.jpg",
+      "isElectricCertified": false
+    }
+  },
+  {
+    "id": "POR-005",
+    "name": "718 Boxster",
+    "description": "Beschrijving van 718 Boxster, een Porsche-model dat bekend staat om open rijplezier.",
+    "price": 105000,
+    "isAvailable": false,
+    "releaseDate": "2023-06-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/718-boxster.jpg",
+    "category": "Cabrio",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-002",
+      "name": "Porsche Zuffenhausen EV Plant",
+      "location": "Zuffenhausen, Duitsland",
+      "founded": 2019,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/zuffenhausen-logo.jpg",
+      "isElectricCertified": true
+    }
+  },
+  {
+    "id": "POR-006",
+    "name": "718 Cayman",
+    "description": "Beschrijving van 718 Cayman, een Porsche-model dat bekend staat om pure sportwagenervaring.",
+    "price": 108000,
+    "isAvailable": true,
+    "releaseDate": "2021-07-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/718-cayman.jpg",
+    "category": "Coup\u00e9",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-001",
+      "name": "Porsche AG Stuttgart",
+      "location": "Stuttgart, Duitsland",
+      "founded": 1931,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/stuttgart-factory-logo.jpg",
+      "isElectricCertified": false
+    }
+  },
+  {
+    "id": "POR-007",
+    "name": "Taycan 4S",
+    "description": "Beschrijving van Taycan 4S, een Porsche-model dat bekend staat om toegankelijke Taycan-prestaties.",
+    "price": 111000,
+    "isAvailable": false,
+    "releaseDate": "2022-08-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/taycan-4s.jpg",
+    "category": "Elektrisch",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-002",
+      "name": "Porsche Zuffenhausen EV Plant",
+      "location": "Zuffenhausen, Duitsland",
+      "founded": 2019,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/zuffenhausen-logo.jpg",
+      "isElectricCertified": true
+    }
+  },
+  {
+    "id": "POR-008",
+    "name": "911 Targa",
+    "description": "Beschrijving van 911 Targa, een Porsche-model dat bekend staat om stijlvol cabriogenot.",
+    "price": 114000,
+    "isAvailable": true,
+    "releaseDate": "2023-09-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/911-targa.jpg",
+    "category": "Cabrio",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-001",
+      "name": "Porsche AG Stuttgart",
+      "location": "Stuttgart, Duitsland",
+      "founded": 1931,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/stuttgart-factory-logo.jpg",
+      "isElectricCertified": false
+    }
+  },
+  {
+    "id": "POR-009",
+    "name": "Cayenne Coupe",
+    "description": "Beschrijving van Cayenne Coupe, een Porsche-model dat bekend staat om sportieve SUV-uitstraling.",
+    "price": 117000,
+    "isAvailable": false,
+    "releaseDate": "2021-01-15",
+    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/cayenne-coupe.jpg",
+    "category": "SUV",
+    "features": [
+      "Sportmodus",
+      "Lederen zetels",
+      "Boordsysteem met GPS"
+    ],
+    "factory": {
+      "id": "FAC-002",
+      "name": "Porsche Zuffenhausen EV Plant",
+      "location": "Zuffenhausen, Duitsland",
+      "founded": 2019,
+      "logoUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/zuffenhausen-logo.jpg",
+      "isElectricCertified": true
+    }
+  }
+]
