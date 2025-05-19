@@ -6,7 +6,7 @@
     "price": 90000,
     "isAvailable": true,
     "releaseDate": "2021-01-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/911-carrera.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/911carrera.png",
     "category": "Coup\u00e9",
     "features": [
       "Sportmodus",
@@ -29,7 +29,7 @@
     "price": 93000,
     "isAvailable": false,
     "releaseDate": "2022-02-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/taycan-turbo-s.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Taycan%20Turbo%20S.jpg",
     "category": "Elektrisch",
     "features": [
       "Sportmodus",
@@ -52,7 +52,7 @@
     "price": 96000,
     "isAvailable": true,
     "releaseDate": "2023-03-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/cayenne.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Cayenne.jpg",
     "category": "SUV",
     "features": [
       "Sportmodus",
@@ -75,7 +75,7 @@
     "price": 99000,
     "isAvailable": false,
     "releaseDate": "2021-04-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/panamera.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Panamera.jpg",
     "category": "Coup\u00e9",
     "features": [
       "Sportmodus",
@@ -98,7 +98,7 @@
     "price": 102000,
     "isAvailable": true,
     "releaseDate": "2022-05-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/macan.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Macan.png",
     "category": "SUV",
     "features": [
       "Sportmodus",
@@ -121,7 +121,7 @@
     "price": 105000,
     "isAvailable": false,
     "releaseDate": "2023-06-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/718-boxster.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/718%20Boxster.png",
     "category": "Cabrio",
     "features": [
       "Sportmodus",
@@ -144,7 +144,7 @@
     "price": 108000,
     "isAvailable": true,
     "releaseDate": "2021-07-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/718-cayman.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/718%20Cayman.png",
     "category": "Coup\u00e9",
     "features": [
       "Sportmodus",
@@ -167,7 +167,7 @@
     "price": 111000,
     "isAvailable": false,
     "releaseDate": "2022-08-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/taycan-4s.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Taycan%204S.png",
     "category": "Elektrisch",
     "features": [
       "Sportmodus",
@@ -190,7 +190,7 @@
     "price": 114000,
     "isAvailable": true,
     "releaseDate": "2023-09-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/911-targa.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/911%20Targa.png",
     "category": "Cabrio",
     "features": [
       "Sportmodus",
@@ -213,7 +213,7 @@
     "price": 117000,
     "isAvailable": false,
     "releaseDate": "2021-01-15",
-    "imageUrl": "https://raw.githubusercontent.com/jouwgebruikersnaam/porsche-json-project/main/images/cayenne-coupe.jpg",
+    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Cayenne%20Coupe.png",
     "category": "SUV",
     "features": [
       "Sportmodus",
