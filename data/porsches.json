@@ -6,19 +6,15 @@
     "price": 90000,
     "isAvailable": true,
     "releaseDate": "2021-01-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/911carrera.png",
-    "category": "Coup\u00e9",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/911carrera.png",
+    "category": "Coupé",
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-001",
       "name": "Porsche AG Stuttgart",
       "location": "Stuttgart, Duitsland",
       "founded": 1931,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/stuttgart_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/stuttgart_logo.png",
       "isElectricCertified": false
     }
   },
@@ -29,19 +25,15 @@
     "price": 93000,
     "isAvailable": false,
     "releaseDate": "2022-02-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Taycan%20Turbo%20S.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/Taycan%20Turbo%20S.jpg",
     "category": "Elektrisch",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-002",
       "name": "Porsche Zuffenhausen EV Plant",
       "location": "Zuffenhausen, Duitsland",
       "founded": 2019,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/zuffenhausen_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/zuffenhausen_logo.png",
       "isElectricCertified": true
     }
   },
@@ -52,19 +44,15 @@
     "price": 96000,
     "isAvailable": true,
     "releaseDate": "2023-03-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Cayenne.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/Cayenne.jpg",
     "category": "SUV",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-001",
       "name": "Porsche AG Stuttgart",
       "location": "Stuttgart, Duitsland",
       "founded": 1931,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/stuttgart_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/stuttgart_logo.png",
       "isElectricCertified": false
     }
   },
@@ -75,19 +63,15 @@
     "price": 99000,
     "isAvailable": false,
     "releaseDate": "2021-04-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Panamera.jpg",
-    "category": "Coup\u00e9",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/Panamera.jpg",
+    "category": "Coupé",
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-002",
       "name": "Porsche Zuffenhausen EV Plant",
       "location": "Zuffenhausen, Duitsland",
       "founded": 2019,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/zuffenhausen_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/zuffenhausen_logo.png",
       "isElectricCertified": true
     }
   },
@@ -98,19 +82,15 @@
     "price": 102000,
     "isAvailable": true,
     "releaseDate": "2022-05-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Macan.png",
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/Macan.png",
     "category": "SUV",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-001",
       "name": "Porsche AG Stuttgart",
       "location": "Stuttgart, Duitsland",
       "founded": 1931,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/stuttgart_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/stuttgart_logo.png",
       "isElectricCertified": false
     }
   },
@@ -121,19 +101,15 @@
     "price": 105000,
     "isAvailable": false,
     "releaseDate": "2023-06-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/718%20Boxster.png",
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/718%20Boxster.png",
     "category": "Cabrio",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-002",
       "name": "Porsche Zuffenhausen EV Plant",
       "location": "Zuffenhausen, Duitsland",
       "founded": 2019,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/zuffenhausen_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/zuffenhausen_logo.png",
       "isElectricCertified": true
     }
   },
@@ -144,19 +120,15 @@
     "price": 108000,
     "isAvailable": true,
     "releaseDate": "2021-07-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/718%20Cayman.png",
-    "category": "Coup\u00e9",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/718%20Cayman.png",
+    "category": "Coupé",
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-001",
       "name": "Porsche AG Stuttgart",
       "location": "Stuttgart, Duitsland",
       "founded": 1931,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/stuttgart_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/stuttgart_logo.png",
       "isElectricCertified": false
     }
   },
@@ -167,19 +139,15 @@
     "price": 111000,
     "isAvailable": false,
     "releaseDate": "2022-08-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Taycan%204S.png",
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/Taycan%204S.png",
     "category": "Elektrisch",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-002",
       "name": "Porsche Zuffenhausen EV Plant",
       "location": "Zuffenhausen, Duitsland",
       "founded": 2019,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/zuffenhausen_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/zuffenhausen_logo.png",
       "isElectricCertified": true
     }
   },
@@ -190,19 +158,15 @@
     "price": 114000,
     "isAvailable": true,
     "releaseDate": "2023-09-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/911%20Targa.png",
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/911%20Targa.png",
     "category": "Cabrio",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-001",
       "name": "Porsche AG Stuttgart",
       "location": "Stuttgart, Duitsland",
       "founded": 1931,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/stuttgart_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/stuttgart_logo.png",
       "isElectricCertified": false
     }
   },
@@ -213,19 +177,15 @@
     "price": 117000,
     "isAvailable": false,
     "releaseDate": "2021-01-15",
-    "imageUrl": "https://github.com/phebe02/porscheProject/blob/main/images/Cayenne%20Coupe.png",
+    "imageUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/Cayenne%20Coupe.png",
     "category": "SUV",
-    "features": [
-      "Sportmodus",
-      "Lederen zetels",
-      "Boordsysteem met GPS"
-    ],
+    "features": ["Sportmodus", "Lederen zetels", "Boordsysteem met GPS"],
     "factory": {
       "id": "FAC-002",
       "name": "Porsche Zuffenhausen EV Plant",
       "location": "Zuffenhausen, Duitsland",
       "founded": 2019,
-      "logoUrl": "https://github.com/phebe02/porscheProject/blob/main/images/zuffenhausen_logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/phebe02/porscheProject/main/images/zuffenhausen_logo.png",
       "isElectricCertified": true
     }
   }
